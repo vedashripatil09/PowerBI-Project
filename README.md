@@ -78,15 +78,4 @@ From this dashboard we can analyze:
 
 ---
 
-## Dashboard Screenshots
 
-### Sales Dashboard Overview
-![Dashboard](images/dashboard1.png)
-
-### Sales Trends & Distribution
-![Dashboard](images/dashboard2.png)
-
-### Regional Sales Analysis
-![Dashboard](images/dashboard3.png)
-
----
